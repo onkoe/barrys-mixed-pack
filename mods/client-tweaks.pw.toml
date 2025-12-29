@@ -1,0 +1,13 @@
+name = "Client Tweaks"
+filename = "ClientTweaks_1.12.2-3.1.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/DZ52fdjc/ClientTweaks_1.12.2-3.1.11.jar"
+hash-format = "sha512"
+hash = "3212313cb961150287a760443d3fdafb4baa2324ae1d34d0188cc28b772b68e9b9d0504114aed9230b1da23e13936d8962cdfcb9633fe1dba96da41cbf5d14fb"
+
+[update]
+[update.modrinth]
+mod-id = "vPNqo58Q"
+version = "DZ52fdjc"

@@ -1,0 +1,13 @@
+name = "Graphene"
+filename = "!!!Graphene-0.2.0-1.12.2Forge-Tick-B.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rmZ2S4Yi/versions/l6CqTsAu/%21%21%21Graphene-0.2.0-1.12.2Forge-Tick-B.jar"
+hash-format = "sha512"
+hash = "dc3106d2e7013a6c63564f85317f0afc46cbed9434e1753aa2c83774275a689dc140b154fa8173739afd9279d9c53f3466f49784c361bdade26a577f0e676b9c"
+
+[update]
+[update.modrinth]
+mod-id = "rmZ2S4Yi"
+version = "l6CqTsAu"

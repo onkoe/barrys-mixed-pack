@@ -1,0 +1,13 @@
+name = "BuildCraft"
+filename = "buildcraft-all-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6X5wjPTJ/versions/6Nm5Msmd/buildcraft-all-8.0.0.jar"
+hash-format = "sha512"
+hash = "10b2e8bd43eefc664f3ab3908a52fa8ec012ba27d984acbc3b6ea9803c64c8fc52f232b21c8bd4fad82d764a7f570f4542eeae8fbace175d916cd3fe8bb7bbac"
+
+[update]
+[update.modrinth]
+mod-id = "6X5wjPTJ"
+version = "6Nm5Msmd"

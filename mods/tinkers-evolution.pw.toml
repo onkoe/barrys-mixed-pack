@@ -1,0 +1,13 @@
+name = "Tinkers' Evolution"
+filename = "tconevo-1.12.2-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IGALuv74/versions/NRBl4LJr/tconevo-1.12.2-1.1.1.jar"
+hash-format = "sha512"
+hash = "1ac60bf0d87939e42d6b9ac25f1022c4812244b9a820a5b61e3902c2216aebc744c86f75be1652341561704f295f2e7392a19668dba87c642dee5eda0276178f"
+
+[update]
+[update.modrinth]
+mod-id = "IGALuv74"
+version = "NRBl4LJr"

@@ -1,0 +1,13 @@
+name = "Brandons Core"
+filename = "BrandonsCore-1.12.2-2.4.20.162-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iFDWVIFV/versions/l0FhLr6i/BrandonsCore-1.12.2-2.4.20.162-universal.jar"
+hash-format = "sha512"
+hash = "ba3ddb7da216209348766c5d179ca98c34b42b24fc4735bcb2265764ef97e9a46c1d512d8961e6bb8c0935ddf2d4db5b0d052b951e96f71836d490ee36a15fc2"
+
+[update]
+[update.modrinth]
+mod-id = "iFDWVIFV"
+version = "l0FhLr6i"

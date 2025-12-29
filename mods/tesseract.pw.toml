@@ -1,0 +1,13 @@
+name = "Tesseract"
+filename = "tesseract-1.0.38-forge-mc1.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OUhp5O2m/versions/tREw0o95/tesseract-1.0.38-forge-mc1.12.jar"
+hash-format = "sha512"
+hash = "fc888eee22cfbf2d3e49eb1c5f9bd0ada4a0624cec885a8f0f3a7eeead7e46ad42cf883bc2dc9a6c50b6bd6d8e08952360e71c32c45c45fc750eb1abbee401a3"
+
+[update]
+[update.modrinth]
+mod-id = "OUhp5O2m"
+version = "tREw0o95"

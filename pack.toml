@@ -1,0 +1,13 @@
+name = "Barry's Mixed Pack"
+author = "Barry"
+version = "1.0.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "69022dde9dd09ae48a2eaa8b4c1ceb39109d6f7a155cae194e1ec7da54da0896"
+
+[versions]
+forge = "14.23.5.2864"
+minecraft = "1.12.2"

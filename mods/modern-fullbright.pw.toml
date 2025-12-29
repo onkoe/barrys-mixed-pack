@@ -1,0 +1,13 @@
+name = "Modern Fullbright"
+filename = "[1.12.2] Modern Fullbright 4.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aQRnWxvB/versions/EfcL77da/%5B1.12.2%5D%20Modern%20Fullbright%204.0.jar"
+hash-format = "sha512"
+hash = "853885ab4b3e722da676813c0c07014447d91384f6e71f6937426d2dc0b02b2da2aab848c2a66826ee42186e4c187591d9c824547320136a400d7749185c2e41"
+
+[update]
+[update.modrinth]
+mod-id = "aQRnWxvB"
+version = "EfcL77da"

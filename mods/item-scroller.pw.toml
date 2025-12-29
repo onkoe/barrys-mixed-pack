@@ -1,0 +1,13 @@
+name = "Item Scroller"
+filename = "itemscroller-forge-1.12.2-0.15.0-dev.20200918.182509.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JygyCSA4/versions/Q1PtWgP7/itemscroller-forge-1.12.2-0.15.0-dev.20200918.182509.jar"
+hash-format = "sha512"
+hash = "ddd1794ab0f8bb56e27a08aba594dd0d9891826de1590f76b75d3020d60049907d6a0f2f9bd1da437da6a3315acebfdc0ee2acd9f8862ad5478afc83eb788c45"
+
+[update]
+[update.modrinth]
+mod-id = "JygyCSA4"
+version = "Q1PtWgP7"

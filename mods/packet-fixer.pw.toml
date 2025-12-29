@@ -1,0 +1,13 @@
+name = "Packet Fixer"
+filename = "PacketFixer-forge-2.1.0-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/c7m1mi73/versions/z8AimD45/PacketFixer-forge-2.1.0-1.12.2.jar"
+hash-format = "sha512"
+hash = "37d5d1d74d5102d9169ed096e0c7d229a4109dd351d1e60bc84274bdcda37a6b50eb3c8d28857f6463bdd09633cd35ac98bac78883e4e8be374d3a6df1fdd61d"
+
+[update]
+[update.modrinth]
+mod-id = "c7m1mi73"
+version = "z8AimD45"

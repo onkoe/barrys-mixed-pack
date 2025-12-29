@@ -1,0 +1,13 @@
+name = "Inventory Bogosorter"
+filename = "bogosorter-1.5.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CuLATCrJ/versions/ZenYuyZF/bogosorter-1.5.0.jar"
+hash-format = "sha512"
+hash = "9dd6a34718ce3a2dcc4f098e494b3c924f3644baead16a82a38bc127ef86ed5d10578c584ad4d5e86dc387ff1f7caca8176eab767245db50e5c116d1d0d96e27"
+
+[update]
+[update.modrinth]
+mod-id = "CuLATCrJ"
+version = "ZenYuyZF"

@@ -1,0 +1,13 @@
+name = "Bacterium"
+filename = "Bacteria1.12.2-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CtYK1BTD/versions/DbP8ByAx/Bacteria1.12.2-2.2.jar"
+hash-format = "sha512"
+hash = "802fa972c8428c251b7e8b01fcc9bc9b826701d574ed439db80aac178d153971ef9b7664b53b9623405095a518a77704b1aa6b8abbc5924b4d84ec3724df6d99"
+
+[update]
+[update.modrinth]
+mod-id = "CtYK1BTD"
+version = "DbP8ByAx"

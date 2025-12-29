@@ -1,0 +1,13 @@
+name = "Fix Experience Bug"
+filename = "ExperienceBugFix-1.12.2-1.0.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o1BM1Yuz/versions/UFS7SmlG/ExperienceBugFix-1.12.2-1.0.0.0.jar"
+hash-format = "sha512"
+hash = "c535f39b86f5d936c682086c166daa5f87608183c4749a19d0ff1c8641716f79f772ddd82e4a1fa078690458822af7b874fd2119e7e459bdd863c79547e3fa9f"
+
+[update]
+[update.modrinth]
+mod-id = "o1BM1Yuz"
+version = "UFS7SmlG"

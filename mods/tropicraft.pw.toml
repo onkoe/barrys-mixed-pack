@@ -1,0 +1,13 @@
+name = "Tropicraft"
+filename = "Tropicraft-7.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/20zpzIT1/versions/7.1.9/Tropicraft-7.1.9.jar"
+hash-format = "sha512"
+hash = "9b25e3f1907042da9f272606466b72d3268cd2130a009fd7f832ad501546c78025e252b20a16448007e9804628f55905a70a9004957c5abd41422106f511828e"
+
+[update]
+[update.modrinth]
+mod-id = "20zpzIT1"
+version = "byz4zluf"

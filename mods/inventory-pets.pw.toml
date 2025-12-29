@@ -1,0 +1,13 @@
+name = "Inventory Pets"
+filename = "inventorypets-1.12-2.0.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hrbIt8wl/versions/mkiG9hAE/inventorypets-1.12-2.0.15.jar"
+hash-format = "sha512"
+hash = "cf77a55beec621d7180588c0f8215c1cbd3297432fb7bc749bfe0c2e0a5c0c7cdb2fdeb1b607fe1ae830d8a380d5481a069345234e6f6b9b7c71b347c9633550"
+
+[update]
+[update.modrinth]
+mod-id = "hrbIt8wl"
+version = "mkiG9hAE"

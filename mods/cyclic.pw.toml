@@ -1,0 +1,13 @@
+name = "Cyclic"
+filename = "Cyclic-1.12.2-1.20.14.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UcVTWyCI/versions/QBNqiaIm/Cyclic-1.12.2-1.20.14.jar"
+hash-format = "sha512"
+hash = "7dbec7a2978d4d671b419a76dd407a34e89f767540e7c8b808b9f4d884a5283c186a869782df9f682dd0d012d2a5f20c463e9288e820894fbb956a651ba08639"
+
+[update]
+[update.modrinth]
+mod-id = "UcVTWyCI"
+version = "QBNqiaIm"

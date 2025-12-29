@@ -1,0 +1,13 @@
+name = "Death Chest"
+filename = "Death-Chest-1.12.2-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e708a049ff7ec8dcdf6279efd6cca5be0e9d84b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3397759
+project-id = 390750

@@ -1,0 +1,13 @@
+name = "Trash Compactor"
+filename = "trashcompactor-1.12.2-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fA3paGA3/versions/TxEJpVl7/trashcompactor-1.12.2-1.0.2.jar"
+hash-format = "sha512"
+hash = "f21238ecda788e11e5faf68062c58b1b0463a99f5663259f9a56a55051845b5977d26383f285860e26054058b66c526f1181db12b0477804bcb0582cfb797afc"
+
+[update]
+[update.modrinth]
+mod-id = "fA3paGA3"
+version = "TxEJpVl7"

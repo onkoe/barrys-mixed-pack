@@ -1,0 +1,13 @@
+name = "Relictium"
+filename = "relictium-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBdcSrPi/versions/tZMrs1hh/relictium-1.2.0.jar"
+hash-format = "sha512"
+hash = "705fc90802756483fa8f73166bf53ebe2a1a982fc00ad2011a9bd2390fddd35339fc6fee97ee4f739ad957953c6001845a16037b2da7bb34476bb5a56d99150f"
+
+[update]
+[update.modrinth]
+mod-id = "GBdcSrPi"
+version = "tZMrs1hh"

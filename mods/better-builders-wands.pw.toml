@@ -1,0 +1,13 @@
+name = "Better Builders Wands"
+filename = "BetterBuildersWands-1.12-0.11.1.245+69d0d70.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ioX4Q3bi/versions/4gOopyVx/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar"
+hash-format = "sha512"
+hash = "a48bdb83aad1baa883c7903cf4ed41c37ce782689bd4ae866cc0e02a96b5ef09808a4681f677c2c41f258cc27658f6c2672038702bf162c002796b47feb9af90"
+
+[update]
+[update.modrinth]
+mod-id = "ioX4Q3bi"
+version = "4gOopyVx"

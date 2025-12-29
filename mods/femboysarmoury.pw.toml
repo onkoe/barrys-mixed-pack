@@ -1,0 +1,13 @@
+name = "Femboys Armoury"
+filename = "femboys_armoury-1.1.0-forge-1.12.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmsVHoB0/versions/VHqJ3E3D/femboys_armoury-1.1.0-forge-1.12.2.jar"
+hash-format = "sha512"
+hash = "1e1af6c104cc391e840db6cd6898b4f45f4a68e1a21f0cbc4fb86574d1126a31b7f29118ee6779d7ee9c8d059f548ed155040f6ce14be8cf6e549fb9981f69ca"
+
+[update]
+[update.modrinth]
+mod-id = "HmsVHoB0"
+version = "VHqJ3E3D"

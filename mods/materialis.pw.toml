@@ -1,0 +1,13 @@
+name = "Materialis"
+filename = "materialis-1.12.2-1.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JCh0VpDj/versions/vnh0kps8/materialis-1.12.2-1.2.5.jar"
+hash-format = "sha512"
+hash = "6692e6a999d13e8cda546fc26d170aafd9d30494d7f232209c7fa851d2948db2894cd4823d9b49734a6452edf913bae157872c72c36546cecb1d8b9e68e2ebd9"
+
+[update]
+[update.modrinth]
+mod-id = "JCh0VpDj"
+version = "vnh0kps8"

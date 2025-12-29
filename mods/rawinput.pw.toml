@@ -1,0 +1,13 @@
+name = "Raw Input"
+filename = "RawInput-0.1.8+1.12.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tNZqMcok/versions/ywQUvkDp/RawInput-0.1.8%2B1.12.2-forge.jar"
+hash-format = "sha512"
+hash = "aa97167a4bac5650b0203341be4b48db654f066a7faa477b3af6d87d3e8831b2af97d8d7ba46610cd98533bd3e740e0d43c8dbb32186b0812dbe96edb4d96555"
+
+[update]
+[update.modrinth]
+mod-id = "tNZqMcok"
+version = "ywQUvkDp"

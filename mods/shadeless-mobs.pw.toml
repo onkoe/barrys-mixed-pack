@@ -1,0 +1,13 @@
+name = "Shadeless Mobs"
+filename = "shadeless-mobs.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q191pHxe/versions/7M5iuJ7w/shadeless-mobs.jar"
+hash-format = "sha512"
+hash = "e1c855995232d95a4780ee32084c708be60c981bbc3d03912001f16e38f9a37c963a1cffac44593aab52ed74f7a182f4390c966f22df4f6c1d71f90ae80d340f"
+
+[update]
+[update.modrinth]
+mod-id = "q191pHxe"
+version = "7M5iuJ7w"
