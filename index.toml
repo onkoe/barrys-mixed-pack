@@ -351,11 +351,6 @@ hash = "929442340bcaa421711871e3fa359e7d02ed9f4438312c803363eb1ec9460782"
 metafile = true
 
 [[files]]
-file = "mods/portal-gun.pw.toml"
-hash = "0b2d90a415533b51a4ca6807ba537993dcca774a83185c6f7f998c4d5d859459"
-metafile = true
-
-[[files]]
 file = "mods/practical-logistics-2.pw.toml"
 hash = "1f40058b5182500d29c287add5132b5004ab9d0a3f843402355fc0e9e29ec387"
 metafile = true
