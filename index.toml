@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/veinbreaker.json"
+hash = "d37d4ab87b3e593ed2b504ec4518ad540aec8dce87dd20fc497d9b52b79515d4"
+
+[[files]]
+file = "logo-awful.pxo"
+hash = "bc9714825d712e87b7c63ffd05e6acb117fc100b9f37752054d8a6006a0427d9"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6644995d1733c60181da09f2ce7221b5f9fa9293d4c08daf99fcb5cdf7fc6969"
 metafile = true
@@ -331,18 +339,8 @@ hash = "56fcb2f8c2e2fbd8bb776704756103f6f900143b3a0f5bf57f6219f5dba6dd6e"
 metafile = true
 
 [[files]]
-file = "mods/openblocks.pw.toml"
-hash = "978ca201971ac81b047c0be1caeaa23df557610507c70f0a8c88ba6549caa624"
-metafile = true
-
-[[files]]
 file = "mods/opencomputers.pw.toml"
 hash = "3cce3fe1b2595a19727c18fbf1d48af17b9035c8217c8032f2df0d3ce52bc858"
-metafile = true
-
-[[files]]
-file = "mods/openmodslib.pw.toml"
-hash = "c9b95c504f693a9f7e7b1a91ae7181a882fb79bab07304c216a1b18d3424b8c2"
 metafile = true
 
 [[files]]
