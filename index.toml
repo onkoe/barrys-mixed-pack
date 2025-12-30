@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/veinbreaker.json"
-hash = "d37d4ab87b3e593ed2b504ec4518ad540aec8dce87dd20fc497d9b52b79515d4"
-
-[[files]]
 file = "logo-awful.pxo"
 hash = "bc9714825d712e87b7c63ffd05e6acb117fc100b9f37752054d8a6006a0427d9"
 
@@ -290,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/mantle.pw.toml"
-hash = "dc08d0d751bdba1788c1897adca2524af0a3256ec5d4864f35493241dbd88026"
+hash = "3b5ef81c27805786f2b7e53d12bbb5a7a9ec8eacf8c005dd3f657f731480796a"
 metafile = true
 
 [[files]]
@@ -445,12 +441,17 @@ metafile = true
 
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
-hash = "57027d8a6e8d8fccbde8c93e4cad90843014651281b73bf291b6b45be6ec1496"
+hash = "3e6cb5fcf2c9c4254ca778c8fc61b4d05e895c111c2a98fb6c0b2bc44922e3f2"
 metafile = true
 
 [[files]]
 file = "mods/tinkers-evolution.pw.toml"
 hash = "5025668ec52e32e04817a5bb591334b716c72d1227a76abdf54cc0d2092250c5"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-tool-leveling.pw.toml"
+hash = "7ae6b403a7e1f09b7b707d1c7153a5f0e85308e34ffc4a58a4de906ef880a061"
 metafile = true
 
 [[files]]
