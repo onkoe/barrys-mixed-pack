@@ -17,6 +17,10 @@ file = "config/travelersbackpack.cfg"
 hash = "6fa8a3e07fb5c6f5e8252fa86d2b489c7bbfe2e5d79425acd7e2511b4a2452dd"
 
 [[files]]
+file = "config/unidict/UniDict.cfg"
+hash = "ff514af1d24bd5dd57d79120eb68b7347560ceb5f37a83166555537b8f307f86"
+
+[[files]]
 file = "config/veinminer/general.cfg"
 hash = "578094e9382ac0ff0a771b94b5f3705389fd894b708fed95024193cc450603eb"
 

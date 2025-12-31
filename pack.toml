@@ -1,12 +1,12 @@
 name = "Barry's Mixed Pack"
 author = "Barry"
-version = "1.0.4"
+version = "1.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "86ca29b9d22dafbfd4d3e769a05e8c5458d0001f251624bcd0a966bcb4476180"
+hash = "4392f54c024c43fdefdb32e0494dfb9c1b2036ac866bb63f562cc1aa6b025f5d"
 
 [versions]
 forge = "14.23.5.2864"
