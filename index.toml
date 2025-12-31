@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
-file = "logo-awful.pxo"
-hash = "bc9714825d712e87b7c63ffd05e6acb117fc100b9f37752054d8a6006a0427d9"
+file = "config/jei/jei.cfg"
+hash = "fa2765f37033f2fa5de1ba9078949af5390491c2a9344e34e312c44dea63ed3c"
+
+[[files]]
+file = "config/minihud.json"
+hash = "a29603e9bc2d4337d058dbda18b8589a5b6e9d5f672daa135c9e88c4776109a0"
+
+[[files]]
+file = "config/morph.cfg"
+hash = "569ff021a82712d75cbd9d1694619333f0716401663f9c6471a9d14b1dea929b"
+
+[[files]]
+file = "config/travelersbackpack.cfg"
+hash = "6fa8a3e07fb5c6f5e8252fa86d2b489c7bbfe2e5d79425acd7e2511b4a2452dd"
+
+[[files]]
+file = "config/veinminer/general.cfg"
+hash = "578094e9382ac0ff0a771b94b5f3705389fd894b708fed95024193cc450603eb"
+
+[[files]]
+file = "config/veinminer/modSupport.cfg"
+hash = "172ce3cba7f0006bd56e163c45c83a00b3c9692859aeb61d5e2b95ef4dc04917"
+
+[[files]]
+file = "config/veinminer/tools-and-blocks.json"
+hash = "c50290b8c39f4c26df869a42f457e3dbc58946c2eca94dc4b4fe39179d5258ed"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -240,6 +264,11 @@ hash = "c6433a944c48a39f80d9aa1ff0541ff790d75466559f424d029c3e6343ac03da"
 metafile = true
 
 [[files]]
+file = "mods/instantunify.pw.toml"
+hash = "e57e1b77925c4f96b7f9e8efd1a04bf457697c175e47827e9abf3dfe5bd43484"
+metafile = true
+
+[[files]]
 file = "mods/inventory-bogosorter.pw.toml"
 hash = "4e09950181b9b471216123d711a3022d1af6a55ff58e85e0c84dae21360852ef"
 metafile = true
@@ -312,6 +341,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "17565fdefba51a2ad3d27c6078b61ed0ba572488ca107621984f47d1f2f6e537"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "ece0a01ad581fc5eb42ced5dc984d38937b61516e2f8e0b7ca0e28e0f84de322"
 metafile = true
 
 [[files]]
@@ -480,8 +514,18 @@ hash = "30dc9421a89b6ba04319a39e863e8e7b6d264d4840b7f50e71b8bb4374da5535"
 metafile = true
 
 [[files]]
-file = "mods/veinbreaker.pw.toml"
-hash = "d376d5ef0ee55099e65f7af44190eddda700bd609112b61fb801b98c1e37c4cf"
+file = "mods/unidict.pw.toml"
+hash = "b7efcef0724d49de5e486cf957b8600c4df388a64575c7fd99d5a0a20499e22d"
+metafile = true
+
+[[files]]
+file = "mods/veinminer.pw.toml"
+hash = "142cd8aa6f26b116fb5d07bd0c26463e90d3591c0fa1d30f35d4b1a8eae2142d"
+metafile = true
+
+[[files]]
+file = "mods/wanionlib.pw.toml"
+hash = "7eb42ae64d048660ef6f7c1f61ce32aebae59174f9fbfa45d74aea5afc28fb43"
 metafile = true
 
 [[files]]
@@ -498,3 +542,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "109455040d47d574dc988779da13459405eb6e0640db2c9173aed4e70da99627"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "2effbeadafaa61f0a717a5fc2562f1632a4589ef76dcfbabdb43c0fad36ff89c"
